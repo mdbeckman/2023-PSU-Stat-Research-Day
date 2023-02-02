@@ -1,5 +1,5 @@
 ---
-theme: minima
+theme: cayman
 ---
 
 # 2023 PSU Statistics Dept Research Day
@@ -45,7 +45,7 @@ see, e.g., Beckman, M. D., Cetinkaya-Rundel, M., Horton, N. J., Rundel, C. W., S
   - [IASE catalog of PhD dissertations in statistics education (link)](https://iase-web.org/Publications.php?p=Dissertations)
 
 
-![This resource page: mdbeckman.github.io/2023-PSU-Stat-Research-Day/](frame.png)
+![QR Code (this page): mdbeckman.github.io/2023-PSU-Stat-Research-Day](frame.png)
 
 
 
