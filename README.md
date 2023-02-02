@@ -48,9 +48,9 @@ see, e.g., Beckman, M. D., Cetinkaya-Rundel, M., Horton, N. J., Rundel, C. W., S
 ## Contact
 
 Matthew Beckman  
-Assoc Research Professor
+Assoc Research Professor  
 Department of Statistics  
 
-office: 421C Thomas Building
+office: 421C Thomas Building  
 email: mdb268 [at] psu [dot] edu  
 webpage: <https://mdbeckman.github.io/>
