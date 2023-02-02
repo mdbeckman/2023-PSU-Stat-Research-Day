@@ -1,12 +1,12 @@
-# YYYY Venue
+# 2023 PSU Statistics Dept Research Day
 
-## Presentation Title
+*February 3, 2023*
 
-*Month DD, YYYY*
+## Statistics & Data Science Education Research Interest
 
-## Abstract
-
-Compelling abstract text goes here.
+  - Teaching, Learning, & Assessment
+  - Curriculum development and evaluation
+  - 
 
 
 ![This resource page: INSERT URL](QRcode.png)
@@ -14,9 +14,9 @@ Compelling abstract text goes here.
 
 ## Resource List
 
-  - [Presentation Slides (PDF)]()
-  - [Supporting Resource (Link)]()
-  - [Another Resource (Link)]()
+  - SDSE Research Lab: Wed @ 9am in 421 Thomas Bldg
+  - personal webpage: <https://mdbeckman.github.io/>  
+  - 
 
 
 
@@ -28,5 +28,4 @@ Penn State University
 University Park, PA 16802  
 
 email: mdb268 [at] psu [dot] edu  
-website: <https://mdbeckman.github.io/>  
 
