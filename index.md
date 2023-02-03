@@ -1,5 +1,7 @@
 ---
-theme: cayman
+output: 
+  html_document: 
+    css: stylesheet.css
 ---
 
 # 2023 PSU Statistics Dept Research Day
